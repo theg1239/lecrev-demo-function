@@ -1,0 +1,10 @@
+{
+  "name": "lecrev-demo-function",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal demo function repo for Lecrev git-based deployments.",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
