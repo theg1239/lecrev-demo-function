@@ -3,7 +3,7 @@ export async function handler(event, context) {
 
   return {
     ok: true,
-    message: "Hello from the Lecrev demo repo",
+    message: "Hello from the Lecrev demo repo ",
     repo: "theg1239/lecrev-demo-function",
     event,
     runtime: {
